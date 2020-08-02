@@ -6,7 +6,7 @@ use Illuminate\Http\Resources\Json\ResourceCollection;
 
 class KhssResource extends ResourceCollection
 {
-    
+   
     public function toArray($request)
     {
         return [
